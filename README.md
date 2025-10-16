@@ -30,7 +30,7 @@ The analysis focuses on addressing key operational challenges:
 
 ## Dataset Overview
 
-The analysis uses a multi-file dataset available on Kaggle, providing a complete view of vendor performance. Core files integrated include:  
+The analysis uses a multi-file dataset available on [Kaggle](https://www.kaggle.com/datasets/harshmadhavan/vendor-performance-analysis/code), providing a complete view of vendor performance. Core files integrated include:  
 
 - `purchases.csv`: Vendor purchase transaction details  
 - `sales.csv`: Records of sales performance linked to vendors  
